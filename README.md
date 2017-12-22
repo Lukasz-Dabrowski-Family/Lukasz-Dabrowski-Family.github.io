@@ -1,2 +1,3 @@
-# Lukasz-Dabrowski-Family.github.io
-Christmas special page
+```js
+   window.location.href = "index.html"
+```
