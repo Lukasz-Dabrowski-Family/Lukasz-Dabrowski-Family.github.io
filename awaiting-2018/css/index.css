@@ -1,12 +1,14 @@
 body {
-    background-color:  #fafafa;
+    background-color:  #d32f2f;
+    
+    color: white;
 }
 
 .main {
      position: relative;
 
      width: 100%;
-     height: 20em;
+     height: 25em;
 
      background-color: #fafafa;
 }
@@ -19,15 +21,23 @@ body {
 
     width: 100%;
 
+    color: #d32f2f;
+    
     font-size: 17em;
     font-family: 'Great Vibes', cursive;
+}
+
+.positive_future {
+    position: relative;
+    
+    color: #d32f2f;
 }
 
 .author {
     position: relative;
     float: left;
     left: 5%;
-    top: 7%;
+    top: 20%;
 
     width: 40%;
 
@@ -39,7 +49,7 @@ body {
     position: relative;
     float: left;
     left: -35%;
-    top: 34%;
+    top: 40%;
 
     font-size: 2em;
     font-family: 'Great Vibes', cursive;
